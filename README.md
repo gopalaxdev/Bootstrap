@@ -19,7 +19,7 @@ Simple Theme to send and mange post
 4.Profile
 ![Dashboard](https://github.com/gops12345/Bootstrap/blob/master/BlogPostScreenShot/Capture8.PNG)
 
-5.Login
+5.Settings
 ![Dashboard](https://github.com/gops12345/Bootstrap/blob/master/BlogPostScreenShot/Capture9.PNG)
 
 
